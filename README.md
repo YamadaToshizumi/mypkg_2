@@ -1,2 +1,8 @@
 # mypkg_2
-ROS
+ROS  
+# author  
+ Toshizumi Yamada,Ryuichi Ueda  
+#  Execution method
+ rosrun mypkg twice.py  
+ rosrun mypkg twice.py  
+ 
