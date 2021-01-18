@@ -1,5 +1,5 @@
 # mypkg_2
-ROS  
+ROS  setumei  
 # author  
 Toshizumi Yamada,Ryuichi Ueda  
 #  Execution method
